@@ -1,0 +1,8 @@
+This is the data visualization script for the social distancing project. The script uses map plotting tools from the geoplot and geopandas libraries. The links are here:
+
+1. https://geopandas.org/install.html
+2. https://residentmario.github.io/geoplot/installation.html
+
+To get started, I recommend not using the conda instructions for installation, but instead the pip instructions. I used python 3.6.9 and pip3 to install all the relevant packages (of which there are many; e.g. Fiona, cartopy, descartes, etc.)
+
+Please contact me for questions.
