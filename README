@@ -5,4 +5,6 @@ This is the data visualization script for the social distancing project. The scr
 
 To get started, I recommend not using the conda instructions for installation, but instead the pip instructions. I used python 3.6.9 and pip3 to install all the relevant packages (of which there are many; e.g. Fiona, cartopy, descartes, etc.)
 
+The source data is located in the data folder. I used the Green Infrastructure data as a dumy source of data. I used the Asset_area as a substitute for the intensity in the heat_maps. This can be replaced with the human density calculated from ML programs.
+
 Please contact me for questions.
